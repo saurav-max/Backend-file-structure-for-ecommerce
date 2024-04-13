@@ -1,0 +1,27 @@
+
+Sure! Let's tell the story using Indian names:
+
+Once upon a time, in a bustling town in India, there lived a cheerful group of friends who dreamed of opening their own hotel. They wanted to create a cozy place where travelers could find comfort and warmth during their journeys.
+
+User (Main Character: Radha):
+
+Radha is a friendly young woman who loves meeting new people. She's the main character of our story because, without her, our hotel wouldn't have any guests! Radha represents the users who visit our hotel website and sign up for an account.
+UserController (Helper: Rahul):
+
+Rahul is Radha's best friend and always there to lend a helping hand. He's like the UserController in our story, responsible for managing everything related to Radha's account on the hotel website. When Radha signs up, Rahul helps her create her account and stores her details securely.
+Booking (Adventurous Couple: Arjun and Priya):
+
+Arjun and Priya are an adventurous couple who love exploring new places together. They represent the bookings made by guests at our hotel. When Arjun and Priya decide to book a room for their next adventure, they interact with our hotel system through the Booking component.
+BookingController (Guide: Leela):
+
+Leela is an experienced traveler who knows all the best spots in town. She's like the BookingController, guiding Arjun and Priya through the process of booking a room at our hotel. Leela helps Arjun and Priya select their check-in and check-out dates, choose the number of guests, and finalize their booking.
+BookingService (Manager: Mr. Patel):
+
+Mr. Patel is the manager of our hotel, responsible for overseeing all bookings and ensuring everything runs smoothly. He represents the BookingService, which handles the logic behind each booking. When Arjun and Priya book a room, Mr. Patel calculates the price based on their booking details and applies any discounts they may be eligible for.
+Discount Calculation (Helper: Grandma Devi):
+
+Grandma Devi is a kind and wise old lady who loves giving out treats to her grandchildren. She represents the Discount Calculation logic in our story. Just like Grandma Devi knows when to give her grandchildren special treats, our system knows when to offer discounts to our guests based on their booking history.
+Database (Storage House: The Hotel's Basement):
+
+The Hotel's Basement is a large storage house where we keep all our important documents and records. It represents the database where we store information about our users, bookings, and discounts. Every time Radha signs up or Arjun and Priya make a booking, we store their information securely in the basement.
+By telling this story with Indian names, we can relate to the characters and components of our hotel management system in a more familiar and engaging way!

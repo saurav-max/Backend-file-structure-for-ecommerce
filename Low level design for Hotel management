@@ -1,0 +1,47 @@
+Frontend Components:
+
+Main Page (Home Page):
+Displays the main content of the website.
+Includes a header section with login and sign up buttons.
+Login Modal:
+A modal that appears when the user clicks the login button.
+Allows users to input their credentials and log in.
+Signup Modal:
+A modal that appears when the user clicks the sign up button.
+Allows new users to create an account by providing their details.
+Booking Type Component:
+A large clickable component on the main page.
+When clicked, opens the booking component for the selected booking type.
+Booking Component:
+
+Check-in and Check-out Date Selector:
+Allows users to select the dates for their stay.
+Uses a date picker or calendar widget for user convenience.
+Number of Guests Selector:
+Allows users to specify the number of guests staying in the room.
+May include separate fields for adults and children.
+Book Button:
+When clicked, initiates the booking process.
+Sends the selected booking details to the backend for processing.
+Backend Logic:
+
+User Authentication:
+We also add 0auth from third party google authentication 
+Handles user login and signup requests.
+Validates user credentials and creates new accounts if necessary.
+Booking Management:
+Receives booking requests from the frontend.
+Validates booking details such as dates and guest count.
+Saves the booking information to the database.
+Database Schema:
+
+User Table:
+Stores user information such as name, email, and password.
+Booking Table:
+Stores booking details including user ID, check-in date, check-out date, and number of guests.
+User Interface Flow:
+
+User accesses the website and clicks on the booking type component.
+The booking component appears, allowing the user to select check-in and check-out dates, specify the number of guests, and book a room.
+After booking, a confirmation message is displayed, thanking the user for their booking.
+By following this low-level design, we can create a website that effectively handles user authentication, booking requests, and database storage in a structured and organized manner.
